@@ -21,8 +21,8 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="1"><b>Programming languages</b></th>
-			<th colspan="1"><b>Software development</b></th>
+			<th colspan="1"><b>Programming Languages</b></th>
+			<th colspan="1"><b>Software</b></th>
 		</tr>
 	</thead>
 	<tbody>
