@@ -4,8 +4,6 @@
 	<span>I hope you will find something useful here</span>
 </p>
 
-<br>
-
 ### <p align="left"><span>👦 About me</span></a></p>
 
 <p align="left">
@@ -17,8 +15,6 @@
 </ul>Are you interested? Contact me!
 </span>
 </p>
-
-<br>
 
 ### <p align="left"><span>📚 Skills</span></p>
 
@@ -56,8 +52,6 @@
 		</tr>
 	</tbody>
 </table>
-
-<br>
 
 ### <p align="left"><span>📭 Contact</span></p>
 
