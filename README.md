@@ -1,4 +1,5 @@
 ### <p align="left"><span>👋 Hello and welcome!</span></a></p>
+<p align="right"><span><img src="https://github.com/NPodlozhniy/NPodlozhniy/blob/master/LinkedInQr.png" width="160" height="160" align="right"/></span></a></p>
 
 <p align="left">
 	<span>I hope you will find something useful here</span>
