@@ -32,7 +32,7 @@
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a></td>
 			<td align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-        <a href="https://zeppelin.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/_next/image?url=%2Fimg%2Flogos%2Fdbt-logo.svg&w=32&q=32" alt="zeppelin" width="60" height="40"/></a>
+        <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/_next/image?url=%2Fimg%2Flogos%2Fdbt-logo.svg&w=32&q=32" alt="dbt" width="60" height="40"/></a>
 		<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/></a></td>
 		</tr>
 		<tr>
