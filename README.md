@@ -1,6 +1,7 @@
 <div align="center">
   <h2>👋 Hello and welcome!</h2>
-  <p><em>I hope you will find something useful here</em></p>
+  <p><em>Staff Data Scientist &nbsp;·&nbsp; ML &nbsp;·&nbsp; Product Analytics &nbsp;·&nbsp; Statistical Methods</em></p>
+  <img src="https://komarev.com/ghpvc/?username=NPodlozhniy&color=blue&style=flat-square" alt="Profile views"/>
 </div>
 
 ---
@@ -9,11 +10,11 @@
 
 ### 👦 About me
 
-My name is **Nikita Podlozhniy**, I'm interested in: 📉 | 📊 | 📈
+My name is **Nikita Podlozhniy**, I'm a **Staff Data Scientist** who turns data into decisions.
 
-- Data analysis, Machine learning, Data science
+- Machine learning, Experimentation & A/B testing, Data analysis
 - Probability theory, Mathematical statistics, Optimization methods
-- Product analysis, Product management
+- Product analytics, Data-driven product management
 
 *Any questions or suggestions?* **Contact me!**
 
@@ -30,9 +31,18 @@ My name is **Nikita Podlozhniy**, I'm interested in: 📉 | 📊 | 📈
 <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="50" alt="MATLAB"/></a>
 </p>
 
+#### 🔬 Data Science Libraries
+<p>
+<a href="https://pandas.pydata.org/" title="pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" alt="pandas"/></a>&nbsp;&nbsp;
+<a href="https://numpy.org/" title="NumPy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn"/></a>&nbsp;&nbsp;
+<a href="https://spark.apache.org/" title="Apache Spark"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="50" alt="Apache Spark"/></a>
+</p>
+
 #### 🗄️ Databases
 <p>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+<a href="https://www.snowflake.com/" title="Snowflake"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" height="50" alt="Snowflake"/></a>&nbsp;&nbsp;
 <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="SQL Server"/></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL"/></a>
 </p>
@@ -40,7 +50,7 @@ My name is **Nikita Podlozhniy**, I'm interested in: 📉 | 📊 | 📈
 #### 📊 BI & Analytics
 <p>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter"/></a>&nbsp;&nbsp;
-<a href="https://www.getdbt.com/" title="dbt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" height="50" alt="dbt"/></a>&nbsp;&nbsp;
+<a href="https://www.getdbt.com/" title="dbt"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt.svg" height="50" alt="dbt"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com/" title="Tableau"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" alt="Tableau"/></a>&nbsp;&nbsp;
 <a href="https://cloud.google.com/looker" title="Looker"><img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="50" alt="Looker"/></a>&nbsp;&nbsp;
 <a href="https://www.thoughtspot.com/" title="ThoughtSpot"><img src="https://cdn.brandfetch.io/idlcYXlhbB/theme/dark/symbol.svg?c=1bfwsmEH20zzEfSNTed" height="50" alt="ThoughtSpot"/></a>
@@ -68,6 +78,16 @@ My name is **Nikita Podlozhniy**, I'm interested in: 📉 | 📊 | 📈
 <a href="https://www.atlassian.com/software/bitbucket" title="Bitbucket"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" height="50" alt="Bitbucket"/></a>&nbsp;&nbsp;
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" height="50" alt="Jira"/></a>&nbsp;&nbsp;
 <a href="https://www.atlassian.com/software/confluence" title="Confluence"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" height="50" alt="Confluence"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NPodlozhniy&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=NPodlozhniy&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
