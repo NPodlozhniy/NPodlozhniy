@@ -1,7 +1,6 @@
 <div align="center">
   <h2>👋 Hello and welcome!</h2>
   <p><em>Staff Data Scientist &nbsp;·&nbsp; ML &nbsp;·&nbsp; Product Analytics &nbsp;·&nbsp; Statistical Methods</em></p>
-  <img src="https://komarev.com/ghpvc/?username=NPodlozhniy&color=blue&style=flat-square" alt="Profile views"/>
 </div>
 
 ---
@@ -85,9 +84,10 @@ My name is **Nikita Podlozhniy**, I'm a **Staff Data Scientist** who turns data 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NPodlozhniy&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=NPodlozhniy&hide_border=true" height="160" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NPodlozhniy&no-bg=true&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
